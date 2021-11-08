@@ -18,7 +18,9 @@ So what can we offer you <mark style="background-color:blue;">n</mark><mark styl
 
 Your data gets encrypted and stays on your devices. Data goes directly between them. Nobody can access your data except you.
 
+{% hint style="success" %}
 You can dive into [privacy-and-security.md](how-anytype-works/privacy-and-security.md "mention") for more details
+{% endhint %}
 
 ### Flexibility. Replace several tools with a single one
 
@@ -44,16 +46,16 @@ Having everything locally is fast. No server, no lag. &#x20;
 
 ### Easy to use
 
-With all the features above you may think that experience will be lacking. But it’s don't.
+With all the features above you may think that experience will be lacking. But it’s don't. You can use blocks more than 10 types of blocks to create a document you like.&#x20;
+
+{% hint style="info" %}
+Check [blocks-and-canvas.md](fundamentals/blocks-and-canvas.md "mention") for more details
+{% endhint %}
 
 ### It's free
 
 * No storage limits. No upload limits. You use your device storage, and nobody can limit you/&#x20;
 * Backup is provided free of charge to all alpha testers. Your objects are encrypted and synced to our cafe nodes. If your device is lost or damaged, you can restore the latest snapshot from our backup node. Data on the backup node is encrypted, and the Anytype team cannot access your data.  More about  [storage-and-deletion.md](how-anytype-works/storage-and-deletion.md "mention")
-
-Looks into the future? Take a look on [https://vision.anytype.io/](https://vision.anytype.io)
-
-The application is in Alpha stage. Something can be rough at the edges, so please write your reports in
 
 ## Anytype based on these fundamentals
 
@@ -77,13 +79,14 @@ The application is in Alpha stage. Something can be rough at the edges, so pleas
 [templates.md](fundamentals/templates.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/blocks-and-canvas.md" %}
-[blocks-and-canvas.md](fundamentals/blocks-and-canvas.md)
-{% endcontent-ref %}
-
 ## Use cases
 
 {% content-ref url="use-cases/how-to-create-task-list.md" %}
 [how-to-create-task-list.md](use-cases/how-to-create-task-list.md)
 {% endcontent-ref %}
 
+## Summary
+
+This is the very first version of Anytype. An encrypted, offline-first tool for thought with robust sync on mobile and desktop. Looks into the future? Take a look on [Anytype Vision](https://vision.anytype.io) and [General Roadmap](https://community.anytype.io/t/release-plan-a-general-roadmap/1283)
+
+The application is in Alpha stage. Something can be rough at the edges, so please write your thoughts and reports in [community](https://community.anytype.io). You can make a bug report, feature request, or ask questions there. You can also join our telegram and discord groups for chatting with other Anytypers.
