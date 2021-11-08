@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Why you need Anytype?](README.md)
 
 ## Fundamentals
 
@@ -15,7 +15,7 @@
 
 * [How to create Task list](use-cases-and-tutorials/how-to-create-task-list.md)
 
-## ❔ How Anytype works?
+## How Anytype works?
 
 * [Syncing & P2P](how-anytype-works/syncing-and-p2p.md)
 * [Privacy & Security](how-anytype-works/privacy-and-security.md)
