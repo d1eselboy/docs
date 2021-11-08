@@ -81,8 +81,8 @@ Check [blocks-and-canvas.md](fundamentals/blocks-and-canvas.md "mention") for mo
 
 ## Use cases
 
-{% content-ref url="use-cases/how-to-create-task-list.md" %}
-[how-to-create-task-list.md](use-cases/how-to-create-task-list.md)
+{% content-ref url="use-cases-and-tutorials/how-to-create-task-list.md" %}
+[how-to-create-task-list.md](use-cases-and-tutorials/how-to-create-task-list.md)
 {% endcontent-ref %}
 
 ## Summary

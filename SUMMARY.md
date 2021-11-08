@@ -11,12 +11,12 @@
 * [Templates](fundamentals/templates.md)
 * [Blocks & Canvas](fundamentals/blocks-and-canvas.md)
 
-## How Anytype works?
+## Use cases & tutorials
+
+* [How to create Task list](use-cases-and-tutorials/how-to-create-task-list.md)
+
+## ❔ How Anytype works?
 
 * [Syncing & P2P](how-anytype-works/syncing-and-p2p.md)
 * [Privacy & Security](how-anytype-works/privacy-and-security.md)
 * [Storage & Deletion](how-anytype-works/storage-and-deletion.md)
-
-## Use cases
-
-* [How to create Task list](use-cases/how-to-create-task-list.md)
