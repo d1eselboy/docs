@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Why you need Anytype?](README.md)
+* [Why Anytype?](README.md)
 
 ## Fundamentals
 
