@@ -14,7 +14,7 @@ You can use Anytype to create books, tasks, notes, ideas, documents, tools and o
 
 So what can we offer you now?
 
-### Privacy. Your information encrypted
+### Privacy. Your information encrypted and yours.
 
 Your data gets encrypted and stays on your devices. Data goes directly between them. Nobody can access your data except you.
 
@@ -38,9 +38,9 @@ You can think abstract and systematic in the same application. You can create th
 
 ### Works offline and locally
 
-Everything happens on [device](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) — even when you work with others.&#x20;
+Everything happens on [device](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) — even when you work with others. You can turn off your WiFi, reduce stress having all your data in the plane/camping/remotely every time. 100% data availability and no need to rely on internet connection
 
-Speed
+Having everything locally is fast. No server, no lag. &#x20;
 
 ### Easy to use
 
