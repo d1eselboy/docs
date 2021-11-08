@@ -12,7 +12,7 @@ You can use Anytype to create books, tasks, notes, ideas, documents, tools and o
 
 ## Why you need Anytype?
 
-So what can we offer you now?
+So what can we offer you <mark style="background-color:blue;">n</mark><mark style="background-color:purple;">o</mark><mark style="background-color:green;">w</mark>?
 
 ### Privacy. Your information encrypted and yours.
 
@@ -30,7 +30,7 @@ Someone finds us an alternative to Notion that isn’t in-depth about the next s
 Take a look on things that that [community've build already](https://community.anytype.io/t/picture-thread-sets-relations-types-and-templates/1507/65).
 {% endhint %}
 
-### Think the way you like. Graph and database approach at the same time
+### Think the way you want. Graph and database approach at the same time
 
 You can think abstract and systematic in the same application. You can create the network of your thoughts connecting things with each other, while a more strict structures like database-view are also easily accessible&#x20;
 
