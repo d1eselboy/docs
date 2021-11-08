@@ -13,7 +13,7 @@ You can create any type with + menu in Home or in bottom-left corner. After that
 * You can set type you want to see. For project management you may want to see: Idea, Feature, Project types and the same time
 * Or you can choose any type and decide on what relation you want to see. You may use tag ==`memory` throughout the whole anytype and you will see all of them in one place
 
-![](../.gitbook/assets/test.gif)
+![](<../.gitbook/assets/test (1).gif>)
 
 From the Store, choose an object type, click "Create," and choose "Create a set."
 
