@@ -2,7 +2,7 @@
 description: Anytype basics
 ---
 
-# Introduction
+# Why Anytype?
 
 ![Home page](<.gitbook/assets/Screenshot 2021-11-05 at 18.45.31.png>)
 
@@ -10,7 +10,7 @@ Anytype is next-generation software that works like your brain does. It solves e
 
 You can use Anytype to create books, tasks, notes, ideas, documents, tools and organize them any way you want. Future versions will allow you to share your work and safely collaborate with others. We want Anytype to be a global repository of knowledge.
 
-## Why you need Anytype?
+## Stands out
 
 So what can we offer you <mark style="background-color:blue;">n</mark><mark style="background-color:purple;">o</mark><mark style="background-color:green;">w</mark>?
 
