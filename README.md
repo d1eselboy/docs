@@ -24,7 +24,7 @@ You can dive into [privacy-and-security.md](how-anytype-works/privacy-and-securi
 
 ### Flexibility. Replace several tools with a single one
 
-Most of the note-taking apps under-powering type of information you create and give you strict possibilities for customisation and limited flows. **With Anytype you can create a system which serves your personal needs.** Do you want a system with different templates and views in different cases? You can make your masters degree space where lessons and courses which are linked with each other, accessible from other places (like tasks) and also can be managed in database-like view? No problem! Getting things done? OCR?&#x20;
+Most of the note-taking apps under-powering type of information you create and give you strict possibilities for customisation and limited flows. **With Anytype you can create a system which serves your personal needs.** Do you want a system with different templates and views in different cases? You can make your masters degree space where lessons and courses which are linked with each other, accessible from other places (like tasks) and also can be managed in database-like view? No problem! Getting things done? OCR? Easily!
 
 Someone finds us an alternative to Notion that isn’t in-depth about the next step of note taking should be. We think so also!
 
@@ -34,7 +34,7 @@ Take a look on things that that [community've build already](https://community.a
 
 ### Think the way you want. Graph and database approach at the same time
 
-You can think abstract and systematic in the same application. You can create the network of your thoughts connecting things with each other, while a more strict structures like database-view are also easily accessible&#x20;
+You can think abstract and systematic in the same application. You can create the network of your thoughts connecting things with each other, while a more strict structures like database-view are also accessible. You can get the best out of every world.
 
 ![You can easily switch between graph and database-like view](.gitbook/assets/test.gif)
 
