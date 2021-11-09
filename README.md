@@ -36,7 +36,7 @@ Take a look on things that that [community've build already](https://community.a
 
 You can think abstract and systematic in the same application. You can create the network of your thoughts connecting things with each other, while a more strict structures like database-view are also accessible. You can get the best out of every world.
 
-![You can easily switch between graph and database-like view](.gitbook/assets/test.gif)
+![You can easily switch between graph and database-like view](<.gitbook/assets/test (1).gif>)
 
 ### Works offline and locally
 
@@ -59,24 +59,24 @@ Check [blocks-and-canvas.md](fundamentals/blocks-and-canvas.md "mention") for mo
 
 ## Anytype based on these fundamentals
 
-{% content-ref url="fundamentals/object.md" %}
-[object.md](fundamentals/object.md)
+{% content-ref url="fundamentals/objects.md" %}
+[objects.md](fundamentals/objects.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/relation.md" %}
-[relation.md](fundamentals/relation.md)
+{% content-ref url="fundamentals/relations.md" %}
+[relations.md](fundamentals/relations.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/type.md" %}
-[type.md](fundamentals/type.md)
+{% content-ref url="fundamentals/types.md" %}
+[types.md](fundamentals/types.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/set.md" %}
-[set.md](fundamentals/set.md)
+{% content-ref url="fundamentals/sets.md" %}
+[sets.md](fundamentals/sets.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/template.md" %}
-[template.md](fundamentals/template.md)
+{% content-ref url="fundamentals/templates.md" %}
+[templates.md](fundamentals/templates.md)
 {% endcontent-ref %}
 
 ## Use cases

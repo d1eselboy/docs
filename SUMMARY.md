@@ -4,17 +4,17 @@
 
 ## Fundamentals
 
-* [Object](fundamentals/object.md)
-* [Relation](fundamentals/relation.md)
-* [Type](fundamentals/type.md)
-* [Set](fundamentals/set.md)
-* [Template](fundamentals/template.md)
+* [Object](fundamentals/objects.md)
+* [Relation](fundamentals/relations.md)
+* [Type](fundamentals/types.md)
+* [Set](fundamentals/sets.md)
+* [Template](fundamentals/templates.md)
 * [Blocks & Canvas](fundamentals/blocks-and-canvas.md)
 
 ## Use cases & tutorials
 
 * [How to create Task list](use-cases-and-tutorials/how-to-create-task-list.md)
-* [How can I add relations to all existing objects with one Type?](use-cases-and-tutorials/how-can-i-add-relations-to-all-existing-objects-with-one-type.md)
+* [How can I add relation to multiple objects?](use-cases-and-tutorials/how-can-i-add-relation-to-multiple-objects.md)
 
 ## How Anytype works?
 
