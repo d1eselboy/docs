@@ -20,3 +20,7 @@
 * [Syncing & P2P](how-anytype-works/syncing-and-p2p.md)
 * [Privacy & Security](how-anytype-works/privacy-and-security.md)
 * [Storage & Deletion](how-anytype-works/storage-and-deletion.md)
+
+## FAQ
+
+* [We are using IPFS. What is that?](faq/we-are-using-ipfs.-what-is-that.md)
