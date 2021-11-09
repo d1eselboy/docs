@@ -17,8 +17,8 @@
 
 ## How Anytype works?
 
-* [Syncing & P2P](how-anytype-works/syncing-and-p2p.md)
 * [Privacy & Security](how-anytype-works/privacy-and-security.md)
+* [Syncing & P2P](how-anytype-works/syncing-and-p2p.md)
 * [Storage & Deletion](how-anytype-works/storage-and-deletion.md)
 
 ## FAQ

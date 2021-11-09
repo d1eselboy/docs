@@ -1,8 +1,6 @@
 # Syncing & P2P
 
-### Status
-
-In the alpha stage, all the data primarily syncs to the backup node. You will have all the data stored online at **no cost** to you. The application in this stage is always connected to the backup node and cannot be disconnected.
+In the current alpha, all your data primarily syncs to the encrypted backup node. All data storage is at **no cost** to you. The application is always connected to the backup node and cannot be disconnected.
 
 #### Local backups
 
@@ -38,18 +36,19 @@ Overall status (for an object):
 
 * If the Object is not fully synced with some device or backup node and something is syncing (like device) → then it is in `Syncing…` state
 
-### Managing problems
+### Troubleshooting
 
-If someone will get into a trouble with syncing:
+If you encounter an error during sync:
 
 ![](../.gitbook/assets/image.png)
 
-You need to press a special button «Object diagnostics» for debug. The result is absolutely confidential. Please send it to support@anytype.io.
+You will need to send us the «Object diagnostics» for debug. They can be found in the menu bar under the file option. «Object diagnostics» are **confidential**. Please send it to support@anytype.io.
 
-## Future
+## Future Plans
 
-We are planning to give more control into the syncing with the dashboard and precise statuses for each object. Some of the feature requests that we are going to implement soon:
+In the future, we plan on giving users more control over the sync functionality. Some of the features that we are going to implement:
 
-* [Sync control](https://community.anytype.io/t/sync-control/1165)
-* [Naming](https://community.anytype.io/t/minor-grammatical-errors-in-sync-statuses/1096)
-* [Option to force a device off the sync chain](https://community.anytype.io/t/option-to-force-a-device-off-the-sync-chain/1121)
+* [ ] Sync Control Options
+* [ ] The Precise status of each Object
+* [ ] The Naming of Sync Devices
+* [ ] Ability to toggle sync for specific pages and objects
