@@ -6,50 +6,50 @@ description: Anytype basics
 
 ![Home page](<.gitbook/assets/Screenshot 2021-11-05 at 18.45.31.png>)
 
-Anytype is next-generation software that works like your brain does. It solves everyday problems while respecting your privacy and data rights. Anytype is a personal knowledge base, a digital brain that allows you to quickly capture, describe, and connect information.
+Anytype is the next-generation software that works as your brain does. It solves everyday problems while respecting your privacy and data rights. Anytype is a personal knowledge base, a digital brain that allows you to capture, describe, and connect information.
 
-You can use Anytype to create books, tasks, notes, ideas, documents, tools and organize them any way you want. Future versions will allow you to share your work and safely collaborate with others. We want Anytype to be a global repository of knowledge.
+You can use Anytype to create books, tasks, notes, ideas, documents, tools and organise them any way you want. Future versions will allow you to share your work and safely collaborate with others. We want Anytype to be a global repository of knowledge.
 
 ## Stands out
 
 So what can we offer you <mark style="background-color:blue;">n</mark><mark style="background-color:purple;">o</mark><mark style="background-color:green;">w</mark>?
 
-### Privacy. Your information encrypted and yours.
+### Privacy. Your information is encrypted and yours.
 
-Your data gets encrypted and stays on your devices. Data goes directly between them. Nobody can access your data except you.
+Your data gets encrypted and stays on your devices. Data goes directly between your devices, and  Nobody can access your data except you.
 
 {% hint style="success" %}
-You can dive into [privacy-and-security.md](how-anytype-works/privacy-and-security.md "mention") for more details
+You can dive into [privacy-and-security.md](how-anytype-works/privacy-and-security.md "mention") for more details.
 {% endhint %}
 
 ### Flexibility. Replace several tools with a single one
 
-Most of the note-taking apps under-powering type of information you create and give you strict possibilities for customisation and limited flows. **With Anytype you can create a system which serves your personal needs.** Do you want a system with different templates and views in different cases? You can make your masters degree space where lessons and courses which are linked with each other, accessible from other places (like tasks) and also can be managed in database-like view? No problem! Getting things done? OCR? Easily!
+Most note-taking apps under-powering the information you create and give you strict possibilities for customisation and limited flows. **With Anytype, you can create a system that serves your personal needs.** Do you want a system with different templates and views in different cases? You can make your masters degree space where lessons and courses are linked, accessible from other places (like tasks) and, managed in a database-like view? No problem! Getting things done? OCR? Easy!
 
-Someone finds us an alternative to Notion that isn’t in-depth about the next step of note taking should be. We think so also!
+Users find us an alternative to Notion that isn't in-depth about the next step of note-taking. We think so also!
 
 {% hint style="info" %}
-Take a look on things that that [community've build already](https://community.anytype.io/t/picture-thread-sets-relations-types-and-templates/1507/65).
+Take a look at things that the [community has built already](https://community.anytype.io/t/picture-thread-sets-relations-types-and-templates/1507/65).
 {% endhint %}
 
 ### Think the way you want. Graph and database approach at the same time
 
-You can think abstract and systematic in the same application. You can create the network of your thoughts connecting things with each other, while a more strict structures like database-view are also accessible. You can get the best out of every world.
+You can think abstract and systematic in the same application. You can create the network of your thoughts connecting things, while more strict structures like database-view are also accessible. You can get the best out of every world.
 
 ![You can easily switch between graph and database-like view](<.gitbook/assets/test (1).gif>)
 
-### Works offline and locally
+### Works Offline and Locally
 
-Everything happens on [device](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) — even when you work with others. You can turn off your WiFi, reduce stress having all your data in the plane/camping/remotely every time. 100% data availability and no need to rely on internet connection
+Everything happens on-[device](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) — even when you work with others. You can turn off your WiFi, reduce stress by having all your data in the plane/camping/remotely every time. 100% data availability and no need to rely on internet connection
 
-Having everything locally is fast. No server, no lag. &#x20;
+Working Offline means, No Server => No Lag. &#x20;
 
 ### Easy to use
 
-With all the features above you may think that experience will be lacking. But it’s don't. You can use blocks more than 10 types of blocks to create a document you like.&#x20;
+With all the features above, you may think that experience will be lacking. But it does not. You can use blocks more than ten types of blocks to create a document you like.&#x20;
 
 {% hint style="info" %}
-Check [blocks-and-canvas.md](fundamentals/blocks-and-canvas.md "mention") for more details
+Check [blocks-and-canvas.md](fundamentals/blocks-and-canvas.md "mention") for more details.
 {% endhint %}
 
 ### It's free
@@ -111,6 +111,6 @@ Check [blocks-and-canvas.md](fundamentals/blocks-and-canvas.md "mention") for mo
 
 ## Summary
 
-This is the very first version of Anytype. An encrypted, offline-first tool for thought with robust sync on mobile and desktop. Looks into the future? Take a look on [Anytype Vision](https://vision.anytype.io) and [General Roadmap](https://community.anytype.io/t/release-plan-a-general-roadmap/1283)
+Anytype is in its first version. An encrypted, offline-first tool for thought with robust sync on mobile and desktop. Want to see the future? Take a look at the [Vision](https://vision.anytype.io) and [Roadmap](https://community.anytype.io/t/release-plan-a-general-roadmap/1283).
 
-The application is in Alpha stage. Something can be rough at the edges, so please write your thoughts and reports in [community](https://community.anytype.io). You can make a bug report, feature request, or ask questions there. You can also join our telegram and discord groups for chatting with other Anytypers.
+The application is in the Alpha stage. Something can be rough at the edges, so please write your thoughts and reports in the [community](https://community.anytype.io). You can make a bug report, feature request, or ask questions there. You can also join our telegram and discord groups for chatting with other Anytypers.
