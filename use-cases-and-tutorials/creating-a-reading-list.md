@@ -13,13 +13,13 @@
 
 ![](<../.gitbook/assets/test (2).gif>)
 
-### Custom type
-
-If you want to create a more broad Reading List with several entities inside like Books and Articles at the same time, we propose to[ create new Type](https://doc.anytype.io/intro/fundamentals/type#creating-types) for that
-
 {% hint style="warning" %}
 Sets collecting all your objects matching one criteria. You can add new book everywhere inside the Anytype and it will be shown here!
 {% endhint %}
+
+### Custom type
+
+If you want to create a more broad Reading List with several entities inside like Books and Articles at the same time, we propose to[ create new Type](https://doc.anytype.io/intro/fundamentals/type#creating-types) for that
 
 ### Template
 

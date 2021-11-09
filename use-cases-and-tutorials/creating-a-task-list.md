@@ -13,9 +13,11 @@
 
 You can create any object **Task** with the `+` button in-row in your Set, in the editor by typing `/Task` , or using `+` from the dashboard. **All of these objects will be shown in this Set.**
 
+****
 
-
-![](../.gitbook/assets/1631701898-853229-screenshot-2021-09-15-at-133017.png)
+{% hint style="warning" %}
+Sets collecting all your objects matching one criteria. You can add new book everywhere inside the Anytype and it will be shown here!
+{% endhint %}
 
 ### Custom type
 
