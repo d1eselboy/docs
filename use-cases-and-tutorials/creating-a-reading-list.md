@@ -1,6 +1,6 @@
 # Creating a Reading List
 
-![All your books in one place](<../.gitbook/assets/Screenshot 2021-11-09 at 18.54.53.png>)
+![](<../.gitbook/assets/Screenshot 2021-11-09 at 18.54.53.png>)
 
 ### Steps
 
