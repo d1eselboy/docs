@@ -18,7 +18,7 @@ Types bring definition to your objects, informing how they look and the relation
 
 Use the **draft** to create new objects and capture information quickly. Drafts don't support templates or layouts.
 
-#### **Creating types**
+### **Creating types**
 
 To create a new type, use the "Create a new type" button in the library. You can choose the default **relations**, **layout** and optionally **create a template.**
 
