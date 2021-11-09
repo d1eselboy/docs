@@ -10,7 +10,7 @@ Your objects combine to form a unique knowledge graph. It's a universal data str
 
 ![](<../.gitbook/assets/Screenshot%202021-09-03%20at%2017.52.53 (1).jpg>)
 
-We use **relations** to connect objects in the graph. They add context and significance to each connection. For instance, Patrick was born in 1984, he lives in Berlin, and he just finished an essay. His favorite band is Pink Floyd, and his favorite movie is _2001: A Space Odyssey_. Patrick connects to each of these with relations like "date of birth," "location," "last task," "band," and "movie."
+We use **relations** to connect objects in the graph. They add context and significance to each connection. For instance, Patrick was born in 1984, he lives in Berlin, and he just finished an essay. His favourite band is Pink Floyd, and his favourite movie is _2001: A Space Odyssey_. Patrick connects to each of these with relations like "date of birth," "location," "last task," "band," and "movie."
 
 **Common Relations:**
 
@@ -42,7 +42,7 @@ You can easily create an entirely new relation from scratch. It will then be add
 
 ![](https://t2535380.p.clickup-attachments.com/t2535380/ae5a108d-ef92-4045-9711-d5b1b9bf571b/CleanShot%202021-09-07%20at%2017.34.12.gif)
 
-The below types of information are currently available for relations:
+Below is the information on a few of the types available currently:
 
 * **Text:** accepts text as the input.
 * **Number:** for all numbers. Different formats are coming soon.
@@ -54,8 +54,10 @@ The below types of information are currently available for relations:
 * **Media:** audio, movies, or pictures which you can view, play, or download.
 * **Object:** reference to a specific object, like a person, task, or document.
 
+> There are many more relations inside of Anytype!
+
 {% hint style="warning" %}
-At present, you cannot delete relations. Be careful to avoid duplicate relations with the same name.
+At present, you cannot delete relations. So be careful to avoid duplicate relations with the same name.
 {% endhint %}
 
 #### Tips

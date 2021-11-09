@@ -12,7 +12,7 @@ You can use Anytype to create books, tasks, notes, ideas, documents, tools and o
 
 ## Stands out
 
-So what can we offer you <mark style="background-color:blue;">n</mark><mark style="background-color:purple;">o</mark><mark style="background-color:green;">w</mark>?
+So what can we offer you <mark style="color:blue;"><mark style="background-color:blue;">n<mark style="background-color:blue;"></mark><mark style="color:blue;"><mark style="background-color:purple;">o<mark style="background-color:purple;"></mark><mark style="color:blue;"><mark style="background-color:green;">w<mark style="background-color:green;"></mark>?
 
 ### Privacy. Your information is encrypted and yours.
 
@@ -24,7 +24,7 @@ You can dive into [privacy-and-security.md](how-anytype-works/privacy-and-securi
 
 ### Flexibility. Replace several tools with a single one
 
-Most note-taking apps under-powering the information you create and give you strict possibilities for customisation and limited flows. **With Anytype, you can create a system that serves your personal needs.** Do you want a system with different templates and views in different cases? You can make your masters degree space where lessons and courses are linked, accessible from other places (like tasks) and, managed in a database-like view? No problem! Getting things done? OCR? Easy!
+Most note-taking apps under-powering the information you create and give you strict possibilities for customisation and limited flows. **With Anytype, you can create a system that serves your personal needs.** Do you want a system with different templates and views in different cases? You can make your study space where lessons and courses are linked, accessible from other places (like tasks) and, managed in a database-like view? No problem! Getting things done? OCR? Easy!
 
 Users find us an alternative to Notion that isn't in-depth about the next step of note-taking. We think so also!
 
