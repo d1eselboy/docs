@@ -4,7 +4,7 @@
 
 ### Steps
 
-1. To create a **Task tracker**, you need to click + on home, choose [sets.md](../fundamentals/sets.md "mention") and set **Task** as a source. That's it, **you just created made a task tracker! **
+1. To create a **Task tracker**, you need to click + on home, choose [sets.md](../fundamentals/sets.md "mention") and set **Task** as a source. That's it. **You just started a task tracker! **
 2. So now you can view all Tasks in one place. For the Task list, you may add relations. `Tag` , `Due date` , `Priority` Or any other being useful for your tracker.
 3. You can also use filters, sorts, and views like:
    1. Relation `Done` `Is` `Unchecked` so you will see only those that are not done
@@ -16,7 +16,7 @@ You can create any object **Task** with the `+` button in-row in your Set, in th
 ****
 
 {% hint style="warning" %}
-Sets collecting all your objects matching one criteria. You can add new book everywhere inside the Anytype and it will be shown here!
+Sets collect all your objects that match one criterion. You can add a new book everywhere inside the Anytype, and it will be shown here!
 {% endhint %}
 
 ### Custom type
@@ -25,11 +25,11 @@ If you don't like **the Relations** and **Template** we propose in Task, you can
 
 1. You need to open [library.md](../fundamentals/library.md "mention") in **Home** screen, which contains all **Types** in Anytype
 2. Press "Create a new type."&#x20;
-3. In your custom **Type**, you can choose any relation, and create a template you want.
+3. In your custom **Type**, you can choose any relation and create a template you want.
 4. To create a **Task tracker**, you need to click "Create" → "New Set of objects."&#x20;
 
 ### Template
 
-It's very handy to create templates for repeatable tasks with pre-filled options. Like Template related to Work can contain `Tag` `==` `Work` with higher default priority
+It's convenient to create templates for repeatable tasks with pre-filled options. Like Template related to Work can contain `Tag` `==` `Work` with higher default priority
 
 ![](../.gitbook/assets/1631701898-853229-screenshot-2021-09-15-at-133017.png)

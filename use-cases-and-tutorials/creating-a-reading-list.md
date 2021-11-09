@@ -14,13 +14,13 @@
 ![](<../.gitbook/assets/test (2).gif>)
 
 {% hint style="warning" %}
-Sets collecting all your objects matching one criteria. You can add new book everywhere inside the Anytype and it will be shown here!
+Sets collect all your objects that match one criterion. You can add a new book everywhere inside the Anytype, and it will be shown here!
 {% endhint %}
 
 ### Custom type
 
-If you want to create a more broad Reading List with several entities inside like Books and Articles at the same time, we propose to[ create new Type](https://doc.anytype.io/intro/fundamentals/type#creating-types) for that
+If you want to create a more broad Reading List with several entities inside like Books and Articles at the same time, we propose to[ creating a new Type](https://doc.anytype.io/intro/fundamentals/type#creating-types) for that.
 
 ### Template
 
-It is very handy to create templates for each view and object type that you have. E.g. a template for Books will have `Author, Rating, Pages` etc. Whereas a template for Blogs posts or Articles will have the `URL, Topic` and other additional information. Using templates when you have multiple views and filters is the fastest way to add new Information without opening pages.
+It is convenient to create templates for each view and object type that you have. E.g. a template for Books will have `Author, Rating, Pages` etc. Whereas a template for Blogs posts or Articles will have the `URL, Topic` and other additional Information. Using templates with multiple views and filters is the fastest way to add new Information without opening pages.

@@ -5,7 +5,7 @@
 It is a starting point when you want to create a new Type and work with the templates.
 
 {% hint style="warning" %}
-You can't delete existing types, templates and relations. We will add this ability in the nearest releases.
+You can't delete existing types, templates and relations. However, we will add this ability in the nearest releases.
 {% endhint %}
 
 {% hint style="info" %}
