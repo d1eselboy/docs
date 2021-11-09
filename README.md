@@ -85,6 +85,30 @@ Check [blocks-and-canvas.md](fundamentals/blocks-and-canvas.md "mention") for mo
 [creating-a-task-list.md](use-cases-and-tutorials/creating-a-task-list.md)
 {% endcontent-ref %}
 
+{% content-ref url="use-cases-and-tutorials/creating-a-travel-planner.md" %}
+[creating-a-travel-planner.md](use-cases-and-tutorials/creating-a-travel-planner.md)
+{% endcontent-ref %}
+
+{% content-ref url="use-cases-and-tutorials/creating-a-knowledge-graph.md" %}
+[creating-a-knowledge-graph.md](use-cases-and-tutorials/creating-a-knowledge-graph.md)
+{% endcontent-ref %}
+
+{% content-ref url="use-cases-and-tutorials/creating-class-notes.md" %}
+[creating-class-notes.md](use-cases-and-tutorials/creating-class-notes.md)
+{% endcontent-ref %}
+
+{% content-ref url="use-cases-and-tutorials/building-a-wiki.md" %}
+[building-a-wiki.md](use-cases-and-tutorials/building-a-wiki.md)
+{% endcontent-ref %}
+
+{% content-ref url="use-cases-and-tutorials/building-a-personal-crm.md" %}
+[building-a-personal-crm.md](use-cases-and-tutorials/building-a-personal-crm.md)
+{% endcontent-ref %}
+
+{% content-ref url="use-cases-and-tutorials/creating-a-reading-list.md" %}
+[creating-a-reading-list.md](use-cases-and-tutorials/creating-a-reading-list.md)
+{% endcontent-ref %}
+
 ## Summary
 
 This is the very first version of Anytype. An encrypted, offline-first tool for thought with robust sync on mobile and desktop. Looks into the future? Take a look on [Anytype Vision](https://vision.anytype.io) and [General Roadmap](https://community.anytype.io/t/release-plan-a-general-roadmap/1283)
