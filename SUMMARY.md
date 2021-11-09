@@ -24,3 +24,4 @@
 ## FAQ
 
 * [We are using IPFS. What is that?](faq/we-are-using-ipfs.-what-is-that.md)
+* [Can be pages nested one to another?](faq/can-be-pages-nested-one-to-another.md)
