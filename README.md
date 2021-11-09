@@ -59,24 +59,24 @@ Check [blocks-and-canvas.md](fundamentals/blocks-and-canvas.md "mention") for mo
 
 ## Anytype based on these fundamentals
 
-{% content-ref url="fundamentals/objects.md" %}
-[objects.md](fundamentals/objects.md)
+{% content-ref url="fundamentals/object.md" %}
+[object.md](fundamentals/object.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/relations.md" %}
-[relations.md](fundamentals/relations.md)
+{% content-ref url="fundamentals/relation.md" %}
+[relation.md](fundamentals/relation.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/types.md" %}
-[types.md](fundamentals/types.md)
+{% content-ref url="fundamentals/type.md" %}
+[type.md](fundamentals/type.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/sets.md" %}
-[sets.md](fundamentals/sets.md)
+{% content-ref url="fundamentals/set.md" %}
+[set.md](fundamentals/set.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/templates.md" %}
-[templates.md](fundamentals/templates.md)
+{% content-ref url="fundamentals/template.md" %}
+[template.md](fundamentals/template.md)
 {% endcontent-ref %}
 
 ## Use cases
