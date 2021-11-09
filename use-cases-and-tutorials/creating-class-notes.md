@@ -1,12 +1,8 @@
 # Creating Class Notes
 
-
-
 ### Steps
 
-
-
-1. To create **Notes**, you need to click + on home, choose [sets.md](../fundamentals/sets.md "mention") and set **Note** as a source. **You have created a place for all your Notes! **
+1. To create **Notes**, you need to click + on home, choose [sets.md](../fundamentals/sets.md "mention") and set **Note** as a source. **Finally, you have made a place for all your Notes! **
 2. &#x20;You can now add relations to your content. `Subject`, `Lecture`, `Professor`, `Date`.
 3. For additional customisation, you can have multiple views along with filters to make your content more accessible.&#x20;
    1. **List view** looks better for objects like this.
@@ -15,8 +11,8 @@
 
 ### Custom type
 
-If you want to create a more broad Note-taking system with several entities inside like Tasks, Mentions and Articles at the same time, we propose to[ create new Type](https://doc.anytype.io/intro/fundamentals/type#creating-types) for that.
+If you want to create a more comprehensive Note-taking system with several entities inside like Tasks, Mentions and Articles simultaneously, we propose[ creating a new Type](https://doc.anytype.io/intro/fundamentals/type#creating-types) for that.
 
 ### Templates
 
-It is very useful to create Templates. While creating notes in class or in meetings you don't have the time to layout and add relations every time. So, you can create Templates. E.g. For Subjects that have a homework task linked you can have a template with the relations pre-filled. If there is a subject in which you have to follow a certain pattern to take notes.
+It is handy to create Templates. While creating notes in class or meetings, you don't have the time to layout and add relations every time. So, you can create Templates. E.g. For Subjects with a homework task linked, you can have a template with the relations pre-filled. If there is a subject in which you have to follow a specific pattern to take notes.
