@@ -2,7 +2,7 @@
 
 Types bring definition to your objects, informing how they look and the relations they feature. You can always change your object's type. What begins as an idea can turn into a task and eventually a project. Your types and their changes sync automatically between your devices.
 
-![](https://t2535380.p.clickup-attachments.com/t2535380/e9f0fc81-4f9b-4e00-bcd7-e9d9a3f3e1f5/CleanShot%202021-09-09%20at%2014.25.08.gif)
+![All types in library](https://t2535380.p.clickup-attachments.com/t2535380/e9f0fc81-4f9b-4e00-bcd7-e9d9a3f3e1f5/CleanShot%202021-09-09%20at%2014.25.08.gif)
 
 **Types included with Anytype:**
 

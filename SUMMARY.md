@@ -9,15 +9,9 @@
 * [Type](fundamentals/types.md)
 * [Set](fundamentals/sets.md)
 * [Template](fundamentals/templates.md)
+* [Library](fundamentals/library.md)
 * [Blocks & Canvas](fundamentals/blocks-and-canvas.md)
 * [Bi-Directional Linking](fundamentals/bi-directional-linking.md)
-* [How to add relation to multiple objects](fundamentals/how-to-add-relation-to-multiple-objects.md)
-
-## How Anytype works?
-
-* [Privacy & Security](how-anytype-works/privacy-and-security.md)
-* [Syncing & P2P](how-anytype-works/syncing-and-p2p.md)
-* [Storage & Deletion](how-anytype-works/storage-and-deletion.md)
 
 ## Use cases & tutorials
 
@@ -29,7 +23,14 @@
 * [Creating a Task List](use-cases-and-tutorials/creating-a-task-list.md)
 * [Creating a Travel Planner](use-cases-and-tutorials/creating-a-travel-planner.md)
 
+## How Anytype works?
+
+* [Privacy & Security](how-anytype-works/privacy-and-security.md)
+* [Syncing & P2P](how-anytype-works/syncing-and-p2p.md)
+* [Storage & Deletion](how-anytype-works/storage-and-deletion.md)
+
 ## FAQ
 
 * [We are using IPFS. What is that?](faq/we-are-using-ipfs.-what-is-that.md)
 * [Can pages be nested one to another?](faq/can-pages-be-nested-one-to-another.md)
+* [How to add relation to multiple objects](faq/how-to-add-relation-to-multiple-objects.md)
