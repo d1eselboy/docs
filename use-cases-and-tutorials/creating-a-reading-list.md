@@ -13,16 +13,6 @@
    2. Add filters by relation **tag**, so you will be able to sort books by themes
    3. You can add images as PageCover or with the [relations.md](../fundamentals/relations.md "mention") **attachment**&#x20;
 
-### Custom type
-
-![Articles and Books at the same place](../.gitbook/assets/gallery.png)
-
-If you want to create a more broad Reading List with several types (like Books and Bookmarks), we propose to create Set be Relation. For example:
-
-1. You need to click + on home, choose [sets.md](../fundamentals/sets.md "mention") and set [relations.md](../fundamentals/relations.md "mention") <mark style="background-color:purple;">**Author**</mark> as a source.&#x20;
-2. This will become a matching criteria. Every object having Author **as a relation **will get into this Set
-3. After that you need to create a new type "Bookmark" where you need to use relation Author
-
 
 
 {% hint style="warning" %}
