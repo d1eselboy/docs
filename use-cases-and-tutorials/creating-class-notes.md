@@ -13,9 +13,9 @@
    2. Add filters by relation **tag**, so you will be able to sort notes by subjects
    3. You can add images as PageCover or with [relations.md](../fundamentals/relations.md "mention") **attachment**
 
-### Customisation
+### Custom type
 
-After creating a set of notes for subjects or classes you can also use the **"@" **key to reference these sets on your Learning Dashboard. This will allow you to quickly reference the sets related to your education.
+If you want to create a more broad Note-taking system with several entities inside like Tasks, Mentions and Articles at the same time, we propose to[ create new Type](https://doc.anytype.io/intro/fundamentals/type#creating-types) for that.
 
 ### Templates
 
