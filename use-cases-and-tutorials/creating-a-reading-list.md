@@ -1,15 +1,33 @@
 # Creating a Reading List
 
+![All your books in one place](<../.gitbook/assets/Screenshot 2021-11-09 at 18.54.53.png>)
+
 ### Steps
 
-1. You need to open **Store** in **Home** screen, which contains all **Types** in Anytype.
-2. Scroll down and click on **Create New Type** and then create a type with the name **List.**
-3. Have a look at **the Relations** and **Template** we propose. You can add more relations later, create another template, but you can't delete existing ones or change an icon. If you need your fully custom type, you need to go back to Store and press "Create a new type." In your custom **Type**, you can choose from the list of **Relations.**
-4. To create a **Reading List**, you need to click "Create" -> "New Set of objects."
-5. Now that you have created a set to view all your reading content. You can now add relations to your content. `Ratings`, `Pages`, `Progress`, `Author`, `Goodreads Link`.
-6. For additional customisation, you can have multiple views along with filters to make your content more accessible.
-7. Let's create views for Books, Articles and Blog Posts. Proceed with the Plus symbol next to the **All **view and name your view.
-8. To add filters for the view you can use it to filter by tag, so in the Books view you will only see your Objects which have been tagged as Books.
+![](<../.gitbook/assets/test (2).gif>)
+
+1. To create a **Reading List**, you need to click + on home, choose [sets.md](../fundamentals/sets.md "mention") and set **Book** as a source. Finally, **you have made a place for all your books! **
+2. &#x20;You can now add relations to your content. `Ratings`, `Pages`, `Progress`, `Author`, `Goodreads Link`.
+3. For additional customisation, you can have multiple views along with filters to make your content more accessible.&#x20;
+   1. **The Gallery view** looks better for objects like this.
+   2. Add filters by relation **tag**, so you will be able to sort books by themes
+   3. You can add images as PageCover or with the [relations.md](../fundamentals/relations.md "mention") **attachment**&#x20;
+
+### Custom type
+
+![Articles and Books at the same place](../.gitbook/assets/gallery.png)
+
+If you want to create a more broad Reading List with several types (like Books and Bookmarks), we propose to create Set be Relation. For example:
+
+1. You need to click + on home, choose [sets.md](../fundamentals/sets.md "mention") and set [relations.md](../fundamentals/relations.md "mention") <mark style="background-color:purple;">**Author**</mark> as a source.&#x20;
+2. This will become a matching criteria. Every object having Author **as a relation **will get into this Set
+3. After that you need to create a new type "Bookmark" where you need to use relation Author
+
+
+
+{% hint style="warning" %}
+Sets collecting all your objects matching one criteria. You can add new book everywhere inside the Anytype and it will be shown here!
+{% endhint %}
 
 ### Template
 
