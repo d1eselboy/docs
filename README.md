@@ -2,7 +2,7 @@
 description: Anytype basics
 ---
 
-# Why Anytype?
+# What is Anytype?
 
 ![Home page](<.gitbook/assets/Screenshot 2021-11-05 at 18.45.31.png>)
 
@@ -81,8 +81,8 @@ Check [blocks-and-canvas.md](fundamentals/blocks-and-canvas.md "mention") for mo
 
 ## Use cases
 
-{% content-ref url="use-cases-and-tutorials/how-to-create-task-list.md" %}
-[how-to-create-task-list.md](use-cases-and-tutorials/how-to-create-task-list.md)
+{% content-ref url="use-cases-and-tutorials/creating-a-task-list.md" %}
+[creating-a-task-list.md](use-cases-and-tutorials/creating-a-task-list.md)
 {% endcontent-ref %}
 
 ## Summary
