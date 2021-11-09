@@ -18,10 +18,8 @@
 * [Creating a Task List](use-cases-and-tutorials/creating-a-task-list.md)
 * [Creating a Reading List](use-cases-and-tutorials/creating-a-reading-list.md)
 * [Building a Personal CRM](use-cases-and-tutorials/building-a-personal-crm.md)
-* [Building a WiKi](use-cases-and-tutorials/building-a-wiki.md)
 * [Creating Class Notes](use-cases-and-tutorials/creating-class-notes.md)
 * [Creating a Knowledge Graph](use-cases-and-tutorials/creating-a-knowledge-graph.md)
-* [Creating a Travel Planner](use-cases-and-tutorials/creating-a-travel-planner.md)
 
 ## How Anytype works?
 
