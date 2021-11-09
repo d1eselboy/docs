@@ -19,7 +19,7 @@ Every object has a flexible canvas made of simple blocks. Each block is a piece 
 
 #### **Object layout**
 
-Layouts help you customize how your object looks. You can align your text blocks, customize the icon type, or change the page width.
+Layouts help you customize how your object looks. For example, you can align your text blocks, customize the icon type, or change the page width.
 
 **Anytype currently supports three kinds of layout:**
 
@@ -30,5 +30,5 @@ Layouts help you customize how your object looks. You can align your text blocks
 We designed layouts to be extendable. In the future, anyone can make new layouts.
 
 {% hint style="info" %}
-Primary and profile layouts support either an emoji or a photo icon. All layouts support a cover image.
+Primary and Profile layouts support either an emoji or a photo icon. All layouts support a cover image.
 {% endhint %}
