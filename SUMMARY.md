@@ -14,7 +14,7 @@
 ## Use cases & tutorials
 
 * [How to create Task list](use-cases-and-tutorials/how-to-create-task-list.md)
-* [How can I add relation to multiple objects?](use-cases-and-tutorials/how-can-i-add-relation-to-multiple-objects.md)
+* [How to add relation to multiple objects](use-cases-and-tutorials/how-to-add-relation-to-multiple-objects.md)
 
 ## How Anytype works?
 
