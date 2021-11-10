@@ -1,6 +1,6 @@
 # How to add relation to multiple objects
 
-### **Using the Type Store**
+### **Using a Type**
 
 Let's look on example. Say you need to add a new relation `Color,` to your **Type** `Cat`. And you already have 10 objects of this type.&#x20;
 
