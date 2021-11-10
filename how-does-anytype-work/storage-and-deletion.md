@@ -33,3 +33,15 @@ Objects like Media and those that come with Anytype (Types, Relations) might be 
 {% endhint %}
 
 You can delete all the content via clear cache option in iOS and Android. This will completely remove all the data and will force app to sync once again completely. Since the media download works on-premise (take a look on[#media-1](storage-and-deletion.md#media-1 "mention")) you will remove all cached media and clear some storage.
+
+## Root Folder
+
+The Anytype Root Folder that is variable based on the OS is where all your local data is stored. Currently, it is not possible to change the location of this folder. However, this functionality will be added at a later date.
+
+## Filesystem integration
+
+Anytype does not have a way to reference files from the OS files system. So all the files are getting copied when you dropping media and files inside Anytype. We will introduce this feature later.
+
+{% hint style="success" %}
+By the way, you can check our roadmap in the [Community Forum](https://community.anytype.io/t/release-plan-a-general-roadmap/1283)
+{% endhint %}
