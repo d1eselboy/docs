@@ -30,6 +30,24 @@ Adding content is very simple - just tap on an empty area and start typing. You 
 
 ![Text blocks](../.gitbook/assets/ezgif-2-1e9039b5baf0.gif)
 
+## Relations, Mentions & Object Links
+
+There are several options to link another object in Editor. You can make Relation, Object Link, and Mention and put it everywhere you want in the Canvas.
+
+### As Relation
+
+You can add any Relation on the Canvas by hitting the `+` button or in-line by typing `/`. Type the name of a Relation or choose one from the list.
+
+![](<../.gitbook/assets/ezgif-4-ea6acf421512 (1).gif>)
+
+### As Object Link
+
+![](<../.gitbook/assets/ezgif-4-ab32385c08cf (1).gif>)
+
+### As Mention
+
+![](<../.gitbook/assets/ezgif-4-ba6e529fd973 (1).gif>)
+
 ## Media
 
 **The following media blocks are available in this version of Anytype**: Images, Audio, Video, Files. Add it on the canvas by hitting the `+` button or in-line by typing `/`. Or you can add it by drag\&drop on the canvas.
@@ -50,25 +68,7 @@ You can insert some code by using a **code snippet**. Choose your language to hi
 
 ![](<../.gitbook/assets/ezgif-4-7de960806bbf (1).gif>)
 
-## Relations, Mentions & Object Links
 
-There are several options to add another object to Canvas: as Relation, as Object Link, and Mentions.&#x20;
-
-### As Relation
-
-You can add any Relation on the Canvas by hitting the `+` button or in-line by typing `/`. Type the name of a Relation or choose one from the list.
-
-![](<../.gitbook/assets/ezgif-4-ea6acf421512 (1).gif>)
-
-### As Object Link
-
-![](<../.gitbook/assets/ezgif-4-ab32385c08cf (1).gif>)
-
-### As Mention
-
-![](<../.gitbook/assets/ezgif-4-ba6e529fd973 (1).gif>)
-
-## Block styling
 
 
 

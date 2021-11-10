@@ -8,14 +8,9 @@ People, Books, Musicians, Documents, Ideas, Places, Numbers, or Files. For insta
 
 Every object has a flexible canvas made of simple blocks. Each block is a piece of information that you can freely move around the canvas. You can add any information you like by hitting the `+` button or in-line by typing `/`. Highlight a block to see its size or move it elsewhere on the canvas. To create a column, drag one block to the end of another block.
 
-**The following blocks are available in this version of Anytype:**
-
-* Text: text, title, heading, subheading, highlighted
-* Lists: checkbox, bulleted list, numbered, toggle
-* Media: file, picture, video, bookmark, code-snippet
-* Objects: create new objects (tasks, people, documents), or link to an existing object
-* Relations: all relations for this object
-* Others: line divider, dotted divider
+{% hint style="info" %}
+Check out [blocks-and-canvas.md](blocks-and-canvas.md "mention")for more details
+{% endhint %}
 
 ### **Object Layout**
 
