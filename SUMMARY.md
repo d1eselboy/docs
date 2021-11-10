@@ -36,3 +36,4 @@
 * [How are media files stored on devices?](faqs/how-are-media-files-stored-on-devices.md)
 * [How do I navigate inside Anytype?](faqs/how-do-i-navigate-inside-anytype.md)
 * [What additional account functionality do we have?](faqs/what-additional-account-functionality-do-we-have.md)
+* [Want to know more about Storage & Root Folder?](faqs/want-to-know-more-about-storage-and-root-folder.md)
