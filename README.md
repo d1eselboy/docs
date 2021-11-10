@@ -19,7 +19,7 @@ So what can we offer you <mark style="color:blue;"><mark style="background-color
 Your data gets encrypted and stays on your devices. Data goes directly between your devices, and  Nobody can access your data except you.
 
 {% hint style="success" %}
-You can dive into [privacy-and-security.md](how-anytype-works/privacy-and-security.md "mention") for more details.
+You can dive into [privacy-and-security.md](how-does-anytype-work/privacy-and-security.md "mention") for more details.
 {% endhint %}
 
 ### Flexibility. Replace several tools with a single one
@@ -55,7 +55,7 @@ Check [blocks-and-canvas.md](fundamentals/blocks-and-canvas.md "mention") for mo
 ### It's free
 
 * No storage limits. No upload limits. You use your device storage, and nobody can limit you/&#x20;
-* Backup is provided free of charge to all alpha testers. Your objects are encrypted and synced to our cafe nodes. If your device is lost or damaged, you can restore the latest snapshot from our backup node. Data on the backup node is encrypted, and the Anytype team cannot access your data.  More about  [storage-and-deletion.md](how-anytype-works/storage-and-deletion.md "mention")
+* Backup is provided free of charge to all alpha testers. Your objects are encrypted and synced to our cafe nodes. If your device is lost or damaged, you can restore the latest snapshot from our backup node. Data on the backup node is encrypted, and the Anytype team cannot access your data.  More about  [storage-and-deletion.md](how-does-anytype-work/storage-and-deletion.md "mention")
 
 ## Anytype based on these fundamentals
 

@@ -7,7 +7,7 @@ We are using a private [IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/) netwo
 Anytype is Offline first; hence all data that you create will be stored locally first. After that, the data is synced to the backup node and your devices for redundancy. Larger files are not directly downloaded to save bandwidth; instead, when that file is requested, it is streamed to your device from the backup node or your devices on the network. E.g. If you have a 4k Video, it will be streamed from the backup node or P2P devices to your device.
 
 {% hint style="info" %}
-[we-are-using-ipfs.-what-is-that.md](../faq/we-are-using-ipfs.-what-is-that.md "mention")
+[we-are-using-ipfs.-what-is-that.md](../faqs/we-are-using-ipfs.-what-is-that.md "mention")
 {% endhint %}
 
 ## Deletion

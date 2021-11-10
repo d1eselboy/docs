@@ -21,16 +21,17 @@
 * [Creating a Knowledge Graph](use-cases-and-tutorials/creating-a-knowledge-graph.md)
 * [Building a Personal CRM](use-cases-and-tutorials/building-a-personal-crm.md)
 
-## How Anytype works?
+## How Does Anytype work?
 
-* [Privacy & Security](how-anytype-works/privacy-and-security.md)
-* [Syncing & P2P](how-anytype-works/syncing-and-p2p.md)
-* [Storage & Deletion](how-anytype-works/storage-and-deletion.md)
+* [Privacy & Security](how-does-anytype-work/privacy-and-security.md)
+* [Syncing & P2P](how-does-anytype-work/syncing-and-p2p.md)
+* [Storage & Deletion](how-does-anytype-work/storage-and-deletion.md)
 
-## FAQ
+## FAQ's
 
-* [We are using IPFS. What is that?](faq/we-are-using-ipfs.-what-is-that.md)
-* [Can pages be nested one to another?](faq/can-pages-be-nested-one-to-another.md)
-* [How to add relation to multiple objects](faq/how-to-add-relation-to-multiple-objects.md)
-* [How does passphrase login work?](faq/how-does-passphrase-login-work.md)
-* [How are media files stored on the device?](faq/how-are-media-files-stored-on-the-device.md)
+* [We are using IPFS. What is that?](faqs/we-are-using-ipfs.-what-is-that.md)
+* [Can pages be nested one to another?](faqs/can-pages-be-nested-one-to-another.md)
+* [How to add relation to multiple objects](faqs/how-to-add-relation-to-multiple-objects.md)
+* [How does passphrase login work?](faqs/how-does-passphrase-login-work.md)
+* [How are media files stored on devices?](faqs/how-are-media-files-stored-on-devices.md)
+* [How do I navigate inside Anytype?](faqs/how-do-i-navigate-inside-anytype.md)
