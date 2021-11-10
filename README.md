@@ -40,7 +40,7 @@ You can think abstract and systematic in the same application. You can create th
 
 ### Works Offline and Locally
 
-Everything happens on-[device](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) — even when you work with others. You can turn off your WiFi, reduce stress by having all your data in the plane/camping/remotely every time. 100% data availability and no need to rely on internet connection
+Everything happens on-[device](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) — even when you work with others. You can turn off your WiFi, reduce stress by having all your data in the plane/camping/remotely every time. 100% data availability and no need to rely on internet connection.
 
 Working Offline means, No Server => No Lag. &#x20;
 
@@ -54,8 +54,8 @@ Check [blocks-and-canvas.md](fundamentals/blocks-and-canvas.md "mention") for mo
 
 ### It's free
 
-* No storage limits. No upload limits. You use your device storage, and nobody can limit you/&#x20;
-* Backup is provided free of charge to all alpha testers. Your objects are encrypted and synced to our cafe nodes. If your device is lost or damaged, you can restore the latest snapshot from our backup node. Data on the backup node is encrypted, and the Anytype team cannot access your data.  More about  [storage-and-deletion.md](how-does-anytype-work/storage-and-deletion.md "mention")
+* No storage limits. No upload limits. You use your device storage, and nobody can limit you.
+* Backup is provided free of charge to all alpha testers. Your objects are encrypted and synced to our cafe nodes. If your device is lost or damaged, you can restore the latest snapshot from our backup node. Data on the backup node is encrypted, and the Anytype team cannot access your data.  More about  [storage-and-deletion.md](how-does-anytype-work/storage-and-deletion.md "mention").
 
 ## Anytype based on these fundamentals
 
