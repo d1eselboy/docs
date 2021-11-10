@@ -29,7 +29,7 @@ Most note-taking apps under-powering the information you create and give you str
 Users find us an alternative to Notion that isn't in-depth about the next step of note-taking. We think so also!
 
 {% hint style="info" %}
-Take a look at things that the [community has built already](https://community.anytype.io/t/picture-thread-sets-relations-types-and-templates/1507/65).
+Take a look at things that [community has built already](https://community.anytype.io/t/picture-thread-sets-relations-types-and-templates/1507/65).
 {% endhint %}
 
 ### Think the way you want. Graph and database approach at the same time

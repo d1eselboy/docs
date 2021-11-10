@@ -14,7 +14,7 @@
 ![](<../.gitbook/assets/test (2).gif>)
 
 {% hint style="warning" %}
-Sets collect all your objects that match one criterion. You can add a new book everywhere inside the Anytype, and it will be shown here!
+Sets collect all your objects that match given criterion. You can add a new book everywhere inside the Anytype, and it will be shown here!
 {% endhint %}
 
 ### Custom type

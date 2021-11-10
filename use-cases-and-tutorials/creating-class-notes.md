@@ -9,6 +9,10 @@
    2. Add filters by relation **tag**, so you will be able to sort notes by subjects
    3. You can add images as PageCover or with [relations.md](../fundamentals/relations.md "mention") **attachment**
 
+{% hint style="warning" %}
+Sets collect all your objects that match given criterion. You can add a new book everywhere inside the Anytype, and it will be shown here!
+{% endhint %}
+
 ### Custom type
 
 If you want to create a more comprehensive Note-taking system with several entities inside like Tasks, Mentions and Articles simultaneously, we propose[ creating a new Type](https://doc.anytype.io/intro/fundamentals/type#creating-types) for that.

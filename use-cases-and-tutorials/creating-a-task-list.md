@@ -16,7 +16,7 @@ You can create any object **Task** with the `+` button in-row in your Set, in th
 ****
 
 {% hint style="warning" %}
-Sets collect all your objects that match one criterion. You can add a new book everywhere inside the Anytype, and it will be shown here!
+Sets collect all your objects that match given criterion. You can add a new book everywhere inside the Anytype, and it will be shown here!
 {% endhint %}
 
 ### Custom type
