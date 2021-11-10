@@ -11,15 +11,12 @@
 * [Template](fundamentals/templates.md)
 * [Library](fundamentals/library.md)
 * [Blocks & Canvas](fundamentals/blocks-and-canvas.md)
-* [Bi-Directional Linking](fundamentals/bi-directional-linking.md)
 
 ## Use cases & tutorials
 
 * [Creating a Task List](use-cases-and-tutorials/creating-a-task-list.md)
 * [Creating a Reading List](use-cases-and-tutorials/creating-a-reading-list.md)
 * [Creating Class Notes](use-cases-and-tutorials/creating-class-notes.md)
-* [Creating a Knowledge Graph](use-cases-and-tutorials/creating-a-knowledge-graph.md)
-* [Building a Personal CRM](use-cases-and-tutorials/building-a-personal-crm.md)
 
 ## How Does Anytype work?
 

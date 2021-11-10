@@ -85,16 +85,16 @@ Check [blocks-and-canvas.md](fundamentals/blocks-and-canvas.md "mention") for mo
 [creating-a-task-list.md](use-cases-and-tutorials/creating-a-task-list.md)
 {% endcontent-ref %}
 
-{% content-ref url="use-cases-and-tutorials/creating-a-knowledge-graph.md" %}
-[creating-a-knowledge-graph.md](use-cases-and-tutorials/creating-a-knowledge-graph.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="use-cases-and-tutorials/creating-class-notes.md" %}
 [creating-class-notes.md](use-cases-and-tutorials/creating-class-notes.md)
 {% endcontent-ref %}
 
-{% content-ref url="use-cases-and-tutorials/building-a-personal-crm.md" %}
-[building-a-personal-crm.md](use-cases-and-tutorials/building-a-personal-crm.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="use-cases-and-tutorials/creating-a-reading-list.md" %}
