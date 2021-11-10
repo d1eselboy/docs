@@ -14,7 +14,7 @@
 
 ## Use cases & tutorials
 
-* [Creating a Task List](use-cases-and-tutorials/creating-a-task-list.md)
+* [Creating a Task Tracker](use-cases-and-tutorials/creating-a-task-tracker.md)
 * [Creating a Reading List](use-cases-and-tutorials/creating-a-reading-list.md)
 * [Creating Class Notes](use-cases-and-tutorials/creating-class-notes.md)
 
