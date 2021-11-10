@@ -13,7 +13,7 @@ Let's look at on example:
 > * Then I moved object B inside object A (`move to` action).
 > * At this point, on object A, I starting to have a link to object B. What's happened?
 
-Answer: they both starting to have links to each other.
+Answer: **they both starting to have links to each other**.
 
 We have <mark style="background-color:red;">no nesting</mark>  for [objects.md](../fundamentals/objects.md "mention"). So object doesn't physically include/store other objects.
 
