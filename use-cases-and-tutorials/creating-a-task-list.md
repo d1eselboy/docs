@@ -33,3 +33,7 @@ If you don't like **the Relations** and **Template** we propose in Task, you can
 It's convenient to create templates for repeatable tasks with pre-filled options. Like Template related to Work can contain `Tag` `==` `Work` with higher default priority
 
 ![](../.gitbook/assets/1631701898-853229-screenshot-2021-09-15-at-133017.png)
+
+{% hint style="success" %}
+Find ideas to spark <mark style="background-color:purple;">inspiration</mark> in [Community Showcases](https://community.anytype.io/c/general-discussion/showcase/13)
+{% endhint %}

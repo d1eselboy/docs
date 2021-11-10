@@ -20,3 +20,7 @@ If you want to create a more comprehensive Note-taking system with several entit
 ### Templates
 
 It is handy to create Templates. While creating notes in class or meetings, you don't have the time to layout and add relations every time. So, you can create Templates. E.g. For Subjects with a homework task linked, you can have a template with the relations pre-filled. If there is a subject in which you have to follow a specific pattern to take notes.
+
+{% hint style="success" %}
+​Find ideas to spark inspiration in [Community Showcases](https://community.anytype.io/c/general-discussion/showcase/13)
+{% endhint %}
