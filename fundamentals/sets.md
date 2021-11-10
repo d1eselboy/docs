@@ -8,12 +8,9 @@ Sets don't **store** objects. They are a way to see a portion of your knowledge 
 
 #### **Creating Sets**
 
-You can create any type with a + menu in the  Home or bottom-left corner. After that
+You can create a Set with a + menu in the Home or bottom-left corner or in / menu in editor. After that you need to decide on what you want to see there. For example project management may require Project type, for reading list — Book.
 
-* You can set the type you want to see. For project management, you may want to see: Ideas, Features, Project types at the same time
-* Or you can choose any type and decide on what relation you want to see. You may use tag ==`memory` throughout the whole anytype and you will see all of them in one place
-
-![](<../.gitbook/assets/test (1) (1).gif>)
+![](<../.gitbook/assets/test (3).gif>)
 
 From the Store, choose an object type, click "Create," and choose "Create a set."
 

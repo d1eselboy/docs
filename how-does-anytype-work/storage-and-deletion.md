@@ -20,10 +20,10 @@ So when you open object with  image it downloads, when you press play on video &
 
 ![](<../.gitbook/assets/Screenshot 2021-11-02 at 16.25.23.png>)
 
-At the moment you can delete only [objects.md](../fundamentals/objects.md "mention") that you create inside Anytype. At first you can move them to bin that will remove the them from navigation. At second you can remove them completely from all devices. All your devices will  also delete them from Anytype when get online.&#x20;
+At the moment you can delete only the [objects.md](../fundamentals/objects.md "mention") that you create inside Anytype. At first you can move them to bin that will remove the them from navigation. Secondly, you can remove them completely from all devices. All your devices will  also delete them from Anytype when get online.&#x20;
 
 {% hint style="warning" %}
-This action do it irrevocably, so please be careful.&#x20;
+This action does it irrevocably, so please be careful.&#x20;
 {% endhint %}
 
 ### Media
@@ -33,3 +33,15 @@ Objects like Media and those that come with Anytype (Types, Relations) might be 
 {% endhint %}
 
 You can delete all the content via clear cache option in iOS and Android. This will completely remove all the data and will force app to sync once again completely. Since the media download works on-premise (take a look on[#media-1](storage-and-deletion.md#media-1 "mention")) you will remove all cached media and clear some storage.
+
+## Root Folder
+
+The Anytype Root Folder that is variable based on the OS is where all your local data is stored. Currently, it is not possible to change the location of this folder. However, this functionality will be added at a later date.
+
+## Filesystem integration
+
+Anytype does not have a way to reference files from the OS files system. So all the files are getting copied when you dropping media and files inside Anytype. We will introduce this feature later.
+
+{% hint style="success" %}
+By the way, you can check our roadmap in the [Community Forum](https://community.anytype.io/t/release-plan-a-general-roadmap/1283)
+{% endhint %}

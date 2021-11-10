@@ -11,7 +11,7 @@
    2. Add filters by relation **tag**, so you will be able to sort books by themes
    3. You can add images as PageCover or with the [relations.md](../fundamentals/relations.md "mention") **attachment**&#x20;
 
-![](<../.gitbook/assets/test (2).gif>)
+![](<../.gitbook/assets/test (2) (1).gif>)
 
 {% hint style="warning" %}
 Sets collect all your objects that match given criterion. You can add a new book everywhere inside the Anytype, and it will be shown here!
