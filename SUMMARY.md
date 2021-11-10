@@ -32,3 +32,4 @@
 * [We are using IPFS. What is that?](faq/we-are-using-ipfs.-what-is-that.md)
 * [Can pages be nested one to another?](faq/can-pages-be-nested-one-to-another.md)
 * [How to add relation to multiple objects](faq/how-to-add-relation-to-multiple-objects.md)
+* [How does passphrase login work?](faq/how-does-passphrase-login-work.md)
