@@ -23,3 +23,7 @@ Use the **draft** to create new objects and capture information quickly. Drafts 
 To create a new type, use the "Create a new type" button in the library. You can choose the default **relations**, **layout** and optionally **create a template.**
 
 ![](https://t2535380.p.clickup-attachments.com/t2535380/d3c42d67-c289-4157-9695-149d4c5507da/CleanShot%202021-09-09%20at%2014.50.46.gif)
+
+### Default Type
+
+For convenience you can also set a **Default Type** in the settings, this will allow you to quickly create objects of your most used type.
