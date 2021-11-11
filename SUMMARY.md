@@ -41,5 +41,4 @@
 * [How to add relation to multiple objects](faqs/how-to-add-relation-to-multiple-objects.md)
 * [How does passphrase login work?](faqs/how-does-passphrase-login-work.md)
 * [How are media files stored on devices?](faqs/how-are-media-files-stored-on-devices.md)
-* [How do I navigate inside Anytype?](faqs/how-do-i-navigate-inside-anytype.md)
 * [How to restore my account?](faqs/what-additional-account-functionality-do-we-have.md)

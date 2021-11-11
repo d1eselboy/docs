@@ -1,10 +1,12 @@
 # Navigation
 
+For navigation inside Anytype, you have 4 options: **`Home, Search, Graph View`, `Bi-Directional Navigation`** and **`Keyboard Shortcuts`**.
+
 ### Home
 
 ![](<../.gitbook/assets/Screenshot 2021-11-11 at 16.04.00.png>)
 
-### Home tabs
+#### Home tabs
 
 * **Favorites. **Use this tab for frequently used objects. You can easily add any object to Favorites from the object Menu
 
@@ -19,14 +21,6 @@
 Make a search across your knowledge graph, object types, and relations.
 
 ![](../.gitbook/assets/ezgif-3-124675fdcc1c.gif)
-
-### Library
-
-Library is a place where you can find Object types and Relations that you have, pre-builded or created by you.
-
-[object](../fundamentals/object/ "mention")
-
-[relations.md](../fundamentals/relations.md "mention")
 
 #### Add new object
 
@@ -68,6 +62,10 @@ If you want to change focus from one object to another simply hit this object on
 
 ![](../.gitbook/assets/ezgif-2-05163aba6d9a.gif)
 
-****
+### Keyboard Shortcuts
+
+Alternatively, you can always use the keyboard to navigate. < > buttons can take you forward and backward in your navigation history or you can use the shortcuts CMD / CTRL  + \[ / ] to navigate.
+
+
 
 ****
