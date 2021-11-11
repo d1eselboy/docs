@@ -19,7 +19,7 @@ Sets collect all your objects that match given criterion. You can add a new book
 
 ### Custom type
 
-If you want to create a more broad Reading List with several entities inside like Books and Articles at the same time, we propose to[ creating a new Type](https://doc.anytype.io/intro/fundamentals/type#creating-types) for that.
+If you want to create a more broad Reading List with several entities inside like Books and Articles at the same time, we propose to[ ](https://doc.anytype.io/intro/fundamentals/type#creating-types)[#create-a-type](../fundamentals/type/#create-a-type "mention") for that.
 
 ### Template
 

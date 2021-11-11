@@ -1,4 +1,4 @@
-# Creating a place for studies
+# Creating a place for Studies
 
 ![](<../.gitbook/assets/Screenshot 2021-11-11 at 11.48.07.png>)
 
@@ -21,7 +21,7 @@ Sets collect all your objects that match given criterion. You can add a new **Cl
 
 ### Custom type
 
-If you want to create a more comprehensive learning system with several entities inside like Courses and Modules in a separate sets, we propose[ creating a new Type](https://doc.anytype.io/intro/fundamentals/type#creating-types) for that.
+If you want to create a more comprehensive learning system with several entities inside like Courses and Modules in a separate sets, we propose[ ](https://doc.anytype.io/intro/fundamentals/type#creating-types)to [#create-a-type](../fundamentals/type/#create-a-type "mention") for that.
 
 ### Templates
 

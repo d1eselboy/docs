@@ -21,7 +21,7 @@ Sets collect all your objects that match given criterion. You can add a new book
 
 ### Custom type
 
-If you don't like **the Relations** and **Template** we propose in Task, you can create your own type.&#x20;
+If you don't like** Relations** and **Templates** used in Task, you can [#create-a-type](../fundamentals/type/#create-a-type "mention") that will fit your needs.
 
 1. You need to open [library.md](../fundamentals/library.md "mention") in **Home** screen, which contains all **Types** in Anytype
 2. Press "Create a new type."&#x20;

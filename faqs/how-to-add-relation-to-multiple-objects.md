@@ -18,7 +18,7 @@ You cannot edit the default relations in types** created by Anytype**. But you c
 
 Say you need to add the relation `Related` to all your `Tasks`. You can't change the default relations for this Type.&#x20;
 
-1. [#creating-sets](../fundamentals/sets.md#creating-sets "mention") with type Task&#x20;
+1. [#create-a-set](../fundamentals/sets.md#create-a-set "mention") with type Task&#x20;
 2. Add a new column. Settings → Relations → **+ **→ `Related`
 3. Each object in the Set will now show this relation. Also see will see at as **suggested** in each object.
 
