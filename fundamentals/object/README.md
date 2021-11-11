@@ -4,7 +4,7 @@ People, Books, Musicians, Documents, Ideas, Places, Numbers, or Files. For insta
 
 ![](../../.gitbook/assets/image.jpg)
 
-### Add new object
+### How to create object?
 
 ![](../../.gitbook/assets/ezgif-3-5950c456efc9.gif)
 
@@ -18,7 +18,7 @@ Check out [blocks-and-canvas](blocks-and-canvas/ "mention")for more details
 
 ### **Object Layout**
 
-Layouts help you customize how your object looks. For example, you can align your text blocks, customize the icon type, or change the page width.
+Layouts help you customize how your object looks. For example, you can align your text blocks, change the icon type, or set the page full-width.
 
 **Anytype currently supports three kinds of layout:**
 
@@ -29,5 +29,5 @@ Layouts help you customize how your object looks. For example, you can align you
 We have designed layouts to be extendable. In the future, users will be able to make custom layouts too!
 
 {% hint style="info" %}
-Primary and Profile layouts support either an emoji or a photo icon. All layouts support a cover image.
+Primary and Profile layouts support either an emoji or a photo icon. All layouts, except Note support a cover image.
 {% endhint %}
