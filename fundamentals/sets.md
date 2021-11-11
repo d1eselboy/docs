@@ -2,9 +2,9 @@
 
 Bring multiple objects into one view with Sets. You can make a Set for a specific type of object, like seeing every task in one view. Inside a Set, you can sort, filter, and choose a view.
 
-![](../.gitbook/assets/Screenshot%202021-09-09%20at%2018.09.04.jpg)
+![All Tasks in one place](<../.gitbook/assets/Screenshot 2021-11-11 at 12.15.55.png>)
 
-Sets don't **store** objects. They are a way to see a portion of your knowledge graph like objects tagged `Work`. Sets help you sort through and create specific views to work with many objects at once
+Sets don't **store** objects like the regular databases. They are a way to see a portion of your knowledge graph that match given criterion, like **Type** == **Task**. So can add a new Task object anywhere inside the Anytype, and it will be shown in **Task Set**!. Sets help you sort through and create specific database-like views to work with many objects at once.
 
 ## **Creating Sets**
 

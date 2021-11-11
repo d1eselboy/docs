@@ -16,7 +16,7 @@
 
 * [Creating a Task Tracker](use-cases-and-tutorials/creating-a-task-tracker.md)
 * [Creating a Reading List](use-cases-and-tutorials/creating-a-reading-list.md)
-* [Creating a place for studies](use-cases-and-tutorials/creating-a-place-for-studies.md)
+* [Creating a place for Studies](use-cases-and-tutorials/creating-a-place-for-studies.md)
 
 ## How Does Anytype work?
 
