@@ -57,6 +57,8 @@ Check [blocks-and-canvas.md](fundamentals/blocks-and-canvas.md "mention") for mo
 * No storage limits. No upload limits. You use your device storage, and nobody can limit you.
 * Backup is provided free of charge to all alpha testers. Your objects are encrypted and synced to our cafe nodes. If your device is lost or damaged, you can restore the latest snapshot from our backup node. Data on the backup node is encrypted, and the Anytype team cannot access your data.  More about  [storage-and-deletion.md](how-does-anytype-work/storage-and-deletion.md "mention").
 
+#### &#x20;<a href="start" id="start"></a>
+
 ## Fundamentals
 
 Anytype based on these 4 fundamentals
