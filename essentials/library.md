@@ -1,6 +1,6 @@
 # Library
 
-`Library` contains all entities you need for building a knowledge graph. There you will find [types.md](types.md "mention")s, [templates.md](templates.md "mention")s, and [relations.md](relations.md "mention")s created by you and pre-build by Anytype.
+`Library` contains all entities you need for building a knowledge graph. There you will find [type](../fundamentals/type/ "mention")s, [template.md](../fundamentals/type/template.md "mention")s, and [relations.md](../fundamentals/relations.md "mention")s created by you and pre-build by Anytype.
 
 It is a starting point when you want to create a new Type and work with the templates.
 

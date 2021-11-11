@@ -15,7 +15,7 @@ Let's look at on example:
 
 Answer: **they both starting to have links to each other**.
 
-We have <mark style="background-color:red;">no nesting</mark>  for [objects.md](../fundamentals/objects.md "mention"). So object doesn't physically include/store other objects.
+We have <mark style="background-color:red;">no nesting</mark>  for [object](../fundamentals/object/ "mention"). So object doesn't physically include/store other objects.
 
 All Anytype structure based on linking between objects. Links are directional, so you know that page A links to → page B. You can make the link in the opposite way if you need that. You can't use classical hierarchy when files belong to folders and folders create a path. But you can make some of the objects Favourite so they will be accessible straight from Home.&#x20;
 

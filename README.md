@@ -49,7 +49,7 @@ Working Offline means, No Server => No Lag. &#x20;
 With all the features above, you may think that experience will be lacking. But it does not. You can use blocks more than ten types of blocks to create a document you like.&#x20;
 
 {% hint style="info" %}
-Check [blocks-and-canvas.md](fundamentals/blocks-and-canvas.md "mention") for more details.
+Check [blocks-and-canvas](fundamentals/object/blocks-and-canvas/ "mention") for more details.
 {% endhint %}
 
 ### It's free
@@ -63,16 +63,16 @@ Check [blocks-and-canvas.md](fundamentals/blocks-and-canvas.md "mention") for mo
 
 Anytype based on these 4 fundamentals
 
-{% content-ref url="fundamentals/objects.md" %}
-[objects.md](fundamentals/objects.md)
+{% content-ref url="fundamentals/object/" %}
+[object](fundamentals/object/)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/relations.md" %}
 [relations.md](fundamentals/relations.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/types.md" %}
-[types.md](fundamentals/types.md)
+{% content-ref url="fundamentals/type/" %}
+[type](fundamentals/type/)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/sets.md" %}

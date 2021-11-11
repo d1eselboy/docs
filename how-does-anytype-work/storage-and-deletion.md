@@ -20,7 +20,7 @@ So when you open object with  image it downloads, when you press play on video &
 
 ![](<../.gitbook/assets/Screenshot 2021-11-02 at 16.25.23.png>)
 
-At the moment you can delete only the [objects.md](../fundamentals/objects.md "mention") that you create inside Anytype. At first you can move them to bin that will remove the them from navigation. Secondly, you can remove them completely from all devices. All your devices will  also delete them from Anytype when get online.&#x20;
+At the moment you can delete only the [object](../fundamentals/object/ "mention") that you create inside Anytype. At first you can move them to bin that will remove the them from navigation. Secondly, you can remove them completely from all devices. All your devices will  also delete them from Anytype when get online.&#x20;
 
 {% hint style="warning" %}
 This action does it irrevocably, so please be careful.&#x20;

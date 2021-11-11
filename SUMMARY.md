@@ -4,19 +4,29 @@
 
 ## Fundamentals
 
-* [Object](fundamentals/objects.md)
+* [Object](fundamentals/object/README.md)
+  * [Blocks & Canvas](fundamentals/object/blocks-and-canvas/README.md)
+    * [Text editing](fundamentals/object/blocks-and-canvas/text-editing.md)
+    * [Relations, Mentions & Object Links](fundamentals/object/blocks-and-canvas/relations-mentions-and-object-links.md)
+    * [Media](fundamentals/object/blocks-and-canvas/media/README.md)
+      * [LaTeX blocks](fundamentals/object/blocks-and-canvas/media/latex-blocks.md)
+      * [Code snippets](fundamentals/object/blocks-and-canvas/media/code-snippets.md)
+    * [Link block view & layout](fundamentals/object/blocks-and-canvas/link-block-view-and-layout.md)
 * [Relation](fundamentals/relations.md)
-* [Type](fundamentals/types.md)
+* [Type](fundamentals/type/README.md)
+  * [Template](fundamentals/type/template.md)
 * [Set](fundamentals/sets.md)
-* [Template](fundamentals/templates.md)
-* [Library](fundamentals/library.md)
-* [Blocks & Canvas](fundamentals/blocks-and-canvas.md)
 
 ## Use cases & tutorials
 
 * [Creating a Task Tracker](use-cases-and-tutorials/creating-a-task-tracker.md)
 * [Creating a Reading List](use-cases-and-tutorials/creating-a-reading-list.md)
 * [Creating a place for Studies](use-cases-and-tutorials/creating-a-place-for-studies.md)
+
+## Essentials
+
+* [Navigation](essentials/navigation.md)
+* [Library](essentials/library.md)
 
 ## How Does Anytype work?
 

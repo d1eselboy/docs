@@ -2,14 +2,14 @@
 
 People, Books, Musicians, Documents, Ideas, Places, Numbers, or Files. For instance, a person named "Enda," an essay to write, the music by "Pink Floyd," the film "2001", a town called "Berlin," a year, or just a simple status like "Done". **Everything** inside Anytype is an Object.
 
-![](../.gitbook/assets/image.jpg)
+![](../../.gitbook/assets/image.jpg)
 
 ### Object Canvas
 
 Every object has a flexible canvas made of simple blocks. Each block is a piece of information that you can freely move around the canvas. You can add any information you like by hitting the `+` button or in-line by typing `/`. Highlight a block to see its size or move it elsewhere on the canvas. To create a column, drag one block to the end of another block.
 
 {% hint style="info" %}
-Check out [blocks-and-canvas.md](blocks-and-canvas.md "mention")for more details
+Check out [blocks-and-canvas](blocks-and-canvas/ "mention")for more details
 {% endhint %}
 
 ### **Object Layout**
