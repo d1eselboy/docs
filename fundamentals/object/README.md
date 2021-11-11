@@ -4,6 +4,10 @@ People, Books, Musicians, Documents, Ideas, Places, Numbers, or Files. For insta
 
 ![](../../.gitbook/assets/image.jpg)
 
+### Add new object
+
+![](../../.gitbook/assets/ezgif-3-5950c456efc9.gif)
+
 ### Object Canvas
 
 Every object has a flexible canvas made of simple blocks. Each block is a piece of information that you can freely move around the canvas. You can add any information you like by hitting the `+` button or in-line by typing `/`. Highlight a block to see its size or move it elsewhere on the canvas. To create a column, drag one block to the end of another block.

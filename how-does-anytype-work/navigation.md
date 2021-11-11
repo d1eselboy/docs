@@ -22,10 +22,6 @@ Make a search across your knowledge graph, object types, and relations.
 
 ![](../.gitbook/assets/ezgif-3-124675fdcc1c.gif)
 
-#### Add new object
-
-![](../.gitbook/assets/ezgif-3-5950c456efc9.gif)
-
 ### Object Graph
 
 Displays a graph representation of the Links and Relations between your objects. You can see the power of Anytype relations, with connections showing how each object relates to another.
