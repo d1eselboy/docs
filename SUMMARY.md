@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is Anytype?](README.md)
+* [Intro](README.md)
 
 ## Fundamentals
 
@@ -16,7 +16,7 @@
 
 * [Creating a Task Tracker](use-cases-and-tutorials/creating-a-task-tracker.md)
 * [Creating a Reading List](use-cases-and-tutorials/creating-a-reading-list.md)
-* [Creating Class Notes](use-cases-and-tutorials/creating-class-notes.md)
+* [Creating a place for studies](use-cases-and-tutorials/creating-a-place-for-studies.md)
 
 ## How Does Anytype work?
 

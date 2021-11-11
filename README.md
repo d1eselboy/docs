@@ -2,7 +2,7 @@
 description: Anytype basics
 ---
 
-# What is Anytype?
+# Intro
 
 ![Home page](<.gitbook/assets/Screenshot 2021-11-05 at 18.45.31.png>)
 
@@ -10,9 +10,9 @@ Anytype is the next-generation software that works as your brain does. It solves
 
 You can use Anytype to create books, tasks, notes, ideas, documents, tools and organise them any way you want. Future versions will allow you to share your work and safely collaborate with others. We want Anytype to be a global repository of knowledge.
 
-## Stands out
+## How do we stand out?
 
-So what can we offer you <mark style="color:blue;"><mark style="background-color:blue;">n<mark style="background-color:blue;"></mark><mark style="color:blue;"><mark style="background-color:purple;">o<mark style="background-color:purple;"></mark><mark style="color:blue;"><mark style="background-color:green;">w<mark style="background-color:green;"></mark>?
+And what can we offer you <mark style="color:blue;"><mark style="background-color:blue;">n<mark style="background-color:blue;"></mark><mark style="color:blue;"><mark style="background-color:purple;">o<mark style="background-color:purple;"></mark><mark style="color:blue;"><mark style="background-color:green;">w<mark style="background-color:green;"></mark>?
 
 ### Privacy. Your information is encrypted and yours.
 
@@ -83,8 +83,8 @@ Anytype based on these 4 fundamentals
 [creating-a-task-tracker.md](use-cases-and-tutorials/creating-a-task-tracker.md)
 {% endcontent-ref %}
 
-{% content-ref url="use-cases-and-tutorials/creating-class-notes.md" %}
-[creating-class-notes.md](use-cases-and-tutorials/creating-class-notes.md)
+{% content-ref url="use-cases-and-tutorials/creating-a-place-for-studies.md" %}
+[creating-a-place-for-studies.md](use-cases-and-tutorials/creating-a-place-for-studies.md)
 {% endcontent-ref %}
 
 {% content-ref url="use-cases-and-tutorials/creating-a-reading-list.md" %}
