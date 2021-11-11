@@ -12,8 +12,8 @@ Add any information you like by hitting the `+` button or in-line by typing `/`.
 
 Open the block menu by hitting ![](<../../../.gitbook/assets/Screenshot 2021-11-09 at 21.37.43.png>)– sidebar on the left side of the block to delete, duplicate or add styling to the block.
 
-* Text: text, title, heading, subheading, highlighted [text-editing.md](text-editing.md "mention")
-* Lists: checkbox, bulleted list, numbered, toggle @tex
+* Text: text, title, heading, subheading, highlighted.&#x20;
+* Lists: checkbox, bulleted list, numbered, toggle. Check [text-editing.md](text-editing.md "mention") for further details
 * [media](media/ "mention"): file, picture, video, bookmark, [latex-blocks.md](media/latex-blocks.md "mention")[code-snippets.md](media/code-snippets.md "mention")
 * [..](../ "mention"): create new objects (tasks, people, documents) and link to it. Or just create a link with existing object [#as-object-link](relations-mentions-and-object-links.md#as-object-link "mention")
 * [relations.md](../../relations.md "mention"): all relations for this object [#as-relation](relations-mentions-and-object-links.md#as-relation "mention")
