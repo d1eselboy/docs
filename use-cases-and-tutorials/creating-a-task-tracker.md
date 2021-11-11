@@ -23,7 +23,7 @@ Sets collect all your objects that match given criterion. You can add a new book
 
 If you don't like **the Relations** and **Template** we propose in Task, you can create your own type.&#x20;
 
-1. You need to open [library.md](../essentials/library.md "mention") in **Home** screen, which contains all **Types** in Anytype
+1. You need to open [library.md](../fundamentals/library.md "mention") in **Home** screen, which contains all **Types** in Anytype
 2. Press "Create a new type."&#x20;
 3. In your custom **Type**, you can choose any relation and create a template you want.
 4. To create a **Task tracker**, you need to click "Create" → "New Set of objects."&#x20;

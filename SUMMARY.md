@@ -16,6 +16,7 @@
 * [Type](fundamentals/type/README.md)
   * [Template](fundamentals/type/template.md)
 * [Set](fundamentals/sets.md)
+* [Library](fundamentals/library.md)
 
 ## Use cases & tutorials
 
@@ -23,13 +24,9 @@
 * [Creating a Reading List](use-cases-and-tutorials/creating-a-reading-list.md)
 * [Creating a place for Studies](use-cases-and-tutorials/creating-a-place-for-studies.md)
 
-## Essentials
-
-* [Navigation](essentials/navigation.md)
-* [Library](essentials/library.md)
-
 ## How Does Anytype work?
 
+* [Navigation](how-does-anytype-work/navigation.md)
 * [Privacy & Security](how-does-anytype-work/privacy-and-security.md)
 * [Syncing & P2P](how-does-anytype-work/syncing-and-p2p.md)
 * [Storage & Deletion](how-does-anytype-work/storage-and-deletion.md)
