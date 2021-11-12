@@ -46,7 +46,7 @@ Working Offline means, No Server => No Lag. &#x20;
 
 ### Easy to use
 
-With all the features above, you may think that experience will be lacking. But it does not. You can use blocks more than ten types of blocks to create a document you like.&#x20;
+With all the features above, you may think that experience will be lacking. But it does not. You can use more than ten types of blocks to create a document you like.&#x20;
 
 {% hint style="info" %}
 Check [blocks-and-canvas](fundamentals/object/blocks-and-canvas/ "mention") for more details.
