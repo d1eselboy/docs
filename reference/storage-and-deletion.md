@@ -2,9 +2,13 @@
 
 ## Storage
 
-We are using a private [IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/) network and [ThreadDB](https://docs.textile.io/threads/) to handle storage. It is a Peer-To-Peer file system that facilitates decentralized storage of data across devices. Furthermore, we use the deduplication feature to reduce storage. E.g. If the same picture is uploaded three times, there is only one image copy stored to reduce storage consumption.
-
 Anytype is Offline first; hence all data that you create will be stored locally first. After that, the data is synced to the backup node and your devices for redundancy.&#x20;
+
+We are using a private IPFS network and [ThreadDB](https://docs.textile.io/threads/) to handle storage. It is a Peer-To-Peer file system that facilitates decentralized storage of data across devices. Furthermore, we use the deduplication feature to reduce storage. E.g. If the same picture is uploaded three times, there is only one image copy stored to reduce storage consumption.
+
+{% hint style="info" %}
+You can read more about IPFS here: [we-are-using-ipfs.-what-is-that.md](../faqs/we-are-using-ipfs.-what-is-that.md "mention")
+{% endhint %}
 
 ### Media
 
@@ -12,15 +16,11 @@ Media files are not directly downloaded in overall syncing to save bandwidth. In
 
 So when you open object with  image it downloads, when you press play on video & audio it begin to download. After that this file will be stored in application cache.
 
-{% hint style="info" %}
-[we-are-using-ipfs.-what-is-that.md](../faqs/we-are-using-ipfs.-what-is-that.md "mention")
-{% endhint %}
-
 ## Deletion
 
-![](<../.gitbook/assets/Screenshot 2021-11-02 at 16.25.23.png>)
+![Complete deletion in Bin](<../.gitbook/assets/Screenshot 2021-11-02 at 16.25.23.png>)
 
-At the moment you can delete only the [object](../fundamentals/object/ "mention") that you create inside Anytype. At first you can move them to bin that will remove the them from navigation. Secondly, you can remove them completely from all devices. All your devices will  also delete them from Anytype when get online.&#x20;
+At the moment you can delete only the [object](../fundamentals/object/ "mention") that you create inside Anytype. At first, you can move them to a bin that will remove them from navigation. Secondly, you can remove them completely from all devices. All your devices will also delete them when getting online.
 
 {% hint style="warning" %}
 This action does it irrevocably, so please be careful.&#x20;

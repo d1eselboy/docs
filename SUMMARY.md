@@ -24,12 +24,12 @@
 * [Creating a Reading List](use-cases-and-tutorials/creating-a-reading-list.md)
 * [Creating a place for Studies](use-cases-and-tutorials/creating-a-place-for-studies.md)
 
-## How Does Anytype work?
+## Reference
 
-* [Navigation](how-does-anytype-work/navigation.md)
-* [Privacy & Security](how-does-anytype-work/privacy-and-security.md)
-* [Syncing & P2P](how-does-anytype-work/syncing-and-p2p.md)
-* [Storage & Deletion](how-does-anytype-work/storage-and-deletion.md)
+* [Navigation](reference/navigation.md)
+* [Privacy & Security](reference/privacy-and-security.md)
+* [Syncing & P2P](reference/syncing-and-p2p.md)
+* [Storage & Deletion](reference/storage-and-deletion.md)
 
 ## FAQ's
 
