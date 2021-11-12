@@ -14,7 +14,7 @@ You can use Anytype to create books, tasks, notes, ideas, documents, tools and o
 
 And what can we offer you <mark style="color:blue;"><mark style="background-color:blue;">n<mark style="background-color:blue;"></mark><mark style="color:blue;"><mark style="background-color:purple;">o<mark style="background-color:purple;"></mark><mark style="color:blue;"><mark style="background-color:green;">w<mark style="background-color:green;"></mark>?
 
-### Privacy. Your information is encrypted and yours.
+### Privacy: Your information is encrypted and all yours
 
 Your data gets encrypted and stays on your devices. Data goes directly between your devices, and  Nobody can access your data except you.
 
@@ -22,17 +22,17 @@ Your data gets encrypted and stays on your devices. Data goes directly between y
 You can dive into [privacy-and-security.md](reference/privacy-and-security.md "mention") for more details.
 {% endhint %}
 
-### Flexibility. Replace several tools with a single one
+### Flexibility: Replace several tools with a single one
 
-Most note-taking apps under-powering the information you create and give you strict possibilities for customisation and limited flows. **With Anytype, you can create a system that serves your personal needs.** Do you want a system with different templates and views in different cases? You can make your study space where lessons and courses are linked, accessible from other places (like tasks) and, managed in a database-like view? No problem! Getting things done? OCR? Easy!
+Most note-taking apps under-powering the information you create and give you strict possibilities for customisation and limited flows. **With Anytype, you can create a system that serves your personal needs.** Do you want a system with different templates and views in different cases? You can make your study space where lessons and courses are linked, accessible from other places (like tasks) and, managed in a database-like view? No problem! Getting things done? OKR? Easy!
 
 Users find us an alternative to Notion that isn't in-depth about the next step of note-taking. We think so also!
 
 {% hint style="info" %}
-Take a look at things that [community has built already](https://community.anytype.io/t/picture-thread-sets-relations-types-and-templates/1507/65).
+Take a look at things that [community has built already](https://community.anytype.io/c/general-discussion/showcase/13).
 {% endhint %}
 
-### Think the way you want. Graph and database approach at the same time
+### Think the way you want: Graph and database views
 
 You can think abstract and systematic in the same application. You can create the network of your thoughts connecting things, while more strict structures like database-view are also accessible. You can get the best out of every world.
 
