@@ -1,41 +1,23 @@
 # Table of contents
 
-* [Intro](README.md)
+* [Get Started](README.md)
 
-## Fundamentals
+## The Basics
 
-* [Object](fundamentals/object/README.md)
-  * [Blocks & Canvas](fundamentals/object/blocks-and-canvas/README.md)
-    * [Text editing](fundamentals/object/blocks-and-canvas/text-editing.md)
-    * [Relations, Mentions & Object Links](fundamentals/object/blocks-and-canvas/relations-mentions-and-object-links.md)
-    * [Media](fundamentals/object/blocks-and-canvas/media/README.md)
-      * [LaTeX blocks](fundamentals/object/blocks-and-canvas/media/latex-blocks.md)
-      * [Code snippets](fundamentals/object/blocks-and-canvas/media/code-snippets.md)
-    * [Link block view & layout](fundamentals/object/blocks-and-canvas/link-block-view-and-layout.md)
-* [Relation](fundamentals/relations.md)
-* [Type](fundamentals/type/README.md)
-  * [Template](fundamentals/type/template.md)
-* [Set](fundamentals/sets.md)
-* [Library](fundamentals/library.md)
+* [Spaces](the-basics/spaces.md)
+* [Collections](the-basics/collections.md)
+* [The GitBook editor](the-basics/the-gitbook-editor.md)
+* [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
+* [Change requests](the-basics/change-requests.md)
 
-## Use cases & tutorials
+## Publishing
 
-* [Creating a Task Tracker](use-cases-and-tutorials/creating-a-task-tracker.md)
-* [Creating a Reading List](use-cases-and-tutorials/creating-a-reading-list.md)
-* [Creating a place for Studies](use-cases-and-tutorials/creating-a-place-for-studies.md)
+* [Publishing your content](publishing/publishing-your-content.md)
 
-## Reference
+## Tips and tricks
 
-* [Navigation](reference/navigation.md)
-* [Privacy & Security](reference/privacy-and-security.md)
-* [Syncing & P2P](reference/syncing-and-p2p.md)
-* [Storage & Deletion](reference/storage-and-deletion.md)
+* [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
 
-## FAQ's
+## Next steps
 
-* [We are using IPFS. What is that?](faqs/we-are-using-ipfs.-what-is-that.md)
-* [Can pages be nested one to another?](faqs/can-pages-be-nested-one-to-another.md)
-* [How to add relation to multiple objects](faqs/how-to-add-relation-to-multiple-objects.md)
-* [How does passphrase login work?](faqs/how-does-passphrase-login-work.md)
-* [How are media files stored on devices?](faqs/how-are-media-files-stored-on-devices.md)
-* [How to restore my account?](faqs/what-additional-account-functionality-do-we-have.md)
+* [What next?](next-steps/what-next.md)
